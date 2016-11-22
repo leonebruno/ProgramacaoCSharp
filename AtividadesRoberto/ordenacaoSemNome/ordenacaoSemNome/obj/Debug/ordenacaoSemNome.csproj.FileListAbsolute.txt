@@ -1,0 +1,6 @@
+E:\FACULDADE\2 SEMESTRE\ROBERTO\ordenacaoSemNome\ordenacaoSemNome\bin\Debug\ordenacaoSemNome.exe.config
+E:\FACULDADE\2 SEMESTRE\ROBERTO\ordenacaoSemNome\ordenacaoSemNome\bin\Debug\ordenacaoSemNome.exe
+E:\FACULDADE\2 SEMESTRE\ROBERTO\ordenacaoSemNome\ordenacaoSemNome\bin\Debug\ordenacaoSemNome.pdb
+E:\FACULDADE\2 SEMESTRE\ROBERTO\ordenacaoSemNome\ordenacaoSemNome\obj\Debug\ordenacaoSemNome.csprojResolveAssemblyReference.cache
+E:\FACULDADE\2 SEMESTRE\ROBERTO\ordenacaoSemNome\ordenacaoSemNome\obj\Debug\ordenacaoSemNome.exe
+E:\FACULDADE\2 SEMESTRE\ROBERTO\ordenacaoSemNome\ordenacaoSemNome\obj\Debug\ordenacaoSemNome.pdb

@@ -1,0 +1,2 @@
+1 - Faça programa que usuario inserindo a nota de todos os alunos e apresente a média das notas da turma e o desvio padrão das notas da turma.
+2 - Inserir a informação de dois catetos, e ele vai mostrar hipotenusa. Usando teria de pitágoras.
