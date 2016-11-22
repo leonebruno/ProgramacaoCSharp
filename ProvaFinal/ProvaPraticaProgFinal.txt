@@ -1,0 +1,36 @@
+﻿Primeiramente insira seus dados nome e RA.
+Depois construa os programas solicitados nos enunciados abaixo, copiando e colando todo o conteúdo da
+função statis void main().
+Ao final o arquivo deve ser salvo com o seguinte padrão: ("ProvaFinal.txt") no diretorio ("C:\LanSchool Files")
+minimize todos os aplicativos e sem desligar ou efetuar log-off no computador vá ate o professor para que o mesmo
+possa recolher sua prova, e juntamente com você conferir.
+
+Prova Prática de Programação
+Nome: Bruno Leone Corrêa
+RA: 31611542
+Nome: Ariadne
+RA: 31627926
+Nome: 
+RA:
+
+
+1) Faça um programa que crie um vetor de 10 posições de inteiros. O usuário deve inserir um valor para cada posição do vetor,
+um segundo vetor deve ser criado e os valores em ordem invertida devem ser armazenados no segundo vetor. Ao final apresentar os
+dois vetores na tela.
+
+Aqui deve ser colado o Main do programa
+
+
+2) Construa uma calculadora com as quatro operações elementares, cada operação deve ser uma função. (apenas números inteiros) 
+
+Aqui deve ser colado o Main do programa
+
+
+3) Receber 30 valores de um usuario, ao final apresentar o maior o menor e a media dos valores inseridos inteiros.
+
+Aqui deve ser colado o Main do programa
+
+
+4) Receber 10 valores do usuário e exibir os mesmos em ordem crescente. 
+
+Aqui deve ser colado o Main do programa

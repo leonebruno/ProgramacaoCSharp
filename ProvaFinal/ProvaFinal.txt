@@ -1,0 +1,135 @@
+BRUNO LEONE ALEXANDRE 	31611542
+ARIADNE 				31627926
+RAFAEL					316144125
+
+
+
+==========================================================================================================
+
+[1]
+
+==========================================================================================================
+
+[2] Bruno Leone Alexandre - 31611542
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.Write("Entre com o primeiro: ");
+        int pn = int.Parse(Console.ReadLine());
+
+        Console.Write("Entre com o segundo: ");
+        int sn = int.Parse(Console.ReadLine());
+
+        Console.Write("Qual operação quer fazer: \tUse 1=>soma | 2=>diminuir | 3=>multiplicar | 4=>dividir\t");
+        int op = int.Parse(Console.ReadLine());
+
+        double result;
+
+        if (op == '1')
+        {
+            result = somar(pn, sn);
+            
+        }
+        else if (op == '2')
+        {
+            result = diminuir(pn, sn);
+        }
+        else if (op == '3')
+        {
+            result = multiplicar(pn, sn);
+        }
+        else if (op == '4')
+        {
+            result = dividir(pn, sn);
+        }
+
+        Console.WriteLine($"O resultado é {result}");
+
+        Console.ReadKey();
+    }
+
+    public static double somar(int n1, int n2)
+    {
+        double result = n1 + n2;
+        return result;
+    }
+    public static double diminuir(int n1, int n2)
+    {
+        double result = n1 - n2;
+        return result;
+    }
+    public static double multiplicar(int n1, int n2)
+    {
+        double result = n1 * n2;
+        return result;
+    }
+    public static double dividir(int n1, int n2)
+    {
+        double result = n1 / n2;
+        return result;
+    }
+}
+
+==========================================================================================================
+
+[3] Bruno Leone
+
+class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] valor = new int[30];
+            int menor = 0;
+            int atual = 0;
+            int maior = 0;
+
+            for (int i = 0; i<=5; i++)
+            {
+                Console.WriteLine("Entre com o valor: ");
+                valor[i] = int.Parse(Console.ReadLine());
+
+                atual = valor[i];
+
+                if (atual<menor)
+                {
+                    menor = atual;
+                }
+                else if (atual>maior)
+                {
+                    maior = atual;
+                }
+            }
+
+            Console.WriteLine("Menor é " + menor + " e maior é " + maior);
+
+            Console.ReadKey();
+        }
+    }
+
+==========================================================================================================
+
+[4] Ariadne
+
+int cont, cont2 = 0;
+            int[] vetor = new int[10];
+
+            for (cont = 0; cont<10; cont++)
+            {
+                Console.WriteLine("digite um numero: ");
+                vetor[cont] = int.Parse(Console.ReadLine());
+
+            }
+
+            Array.Sort(vetor);
+
+            for (cont = 9; cont>=0; cont--)
+            {
+                Console.Write("\nO" + (cont + 1));
+                Console.Write(vetor[cont2]);
+                cont2++;
+            }
+            Console.ReadKey();
+
+==========================================================================================================
