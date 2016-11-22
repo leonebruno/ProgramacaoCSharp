@@ -1,0 +1,9 @@
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\SegundoPrograma\SegundoPrograma\bin\Debug\SegundoPrograma.exe.config
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\SegundoPrograma\SegundoPrograma\bin\Debug\SegundoPrograma.exe
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\SegundoPrograma\SegundoPrograma\bin\Debug\SegundoPrograma.pdb
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\SegundoPrograma\SegundoPrograma\obj\Debug\SegundoPrograma.csprojResolveAssemblyReference.cache
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\SegundoPrograma\SegundoPrograma\obj\Debug\SegundoPrograma.exe
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\SegundoPrograma\SegundoPrograma\obj\Debug\SegundoPrograma.pdb
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\Calculadora Repeticao\SegundoPrograma\bin\Debug\SegundoPrograma.exe.config
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\Calculadora Repeticao\SegundoPrograma\obj\Debug\SegundoPrograma.exe
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\Calculadora Repeticao\SegundoPrograma\obj\Debug\SegundoPrograma.pdb

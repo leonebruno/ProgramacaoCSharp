@@ -1,0 +1,6 @@
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\Calculadora if e else\CalculadoraIfElse\bin\Debug\CalculadoraIfElse.exe.config
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\Calculadora if e else\CalculadoraIfElse\bin\Debug\CalculadoraIfElse.exe
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\Calculadora if e else\CalculadoraIfElse\bin\Debug\CalculadoraIfElse.pdb
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\Calculadora if e else\CalculadoraIfElse\obj\Debug\CalculadoraIfElse.csprojResolveAssemblyReference.cache
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\Calculadora if e else\CalculadoraIfElse\obj\Debug\CalculadoraIfElse.exe
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\Calculadora if e else\CalculadoraIfElse\obj\Debug\CalculadoraIfElse.pdb

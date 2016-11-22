@@ -1,0 +1,6 @@
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\depoisDoChinesinho\bin\Debug\depoisDoChinesinho.exe.config
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\depoisDoChinesinho\bin\Debug\depoisDoChinesinho.exe
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\depoisDoChinesinho\bin\Debug\depoisDoChinesinho.pdb
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\depoisDoChinesinho\obj\Debug\depoisDoChinesinho.csprojResolveAssemblyReference.cache
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\depoisDoChinesinho\obj\Debug\depoisDoChinesinho.exe
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\depoisDoChinesinho\obj\Debug\depoisDoChinesinho.pdb

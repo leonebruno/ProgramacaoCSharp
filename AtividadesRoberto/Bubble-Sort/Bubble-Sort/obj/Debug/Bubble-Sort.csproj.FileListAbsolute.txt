@@ -1,0 +1,12 @@
+E:\FACULDADE\2 SEMESTRE\ROBERTO\Bubble-Sort\Bubble-Sort\bin\Debug\Bubble-Sort.exe.config
+E:\FACULDADE\2 SEMESTRE\ROBERTO\Bubble-Sort\Bubble-Sort\obj\Debug\Bubble-Sort.csprojResolveAssemblyReference.cache
+E:\FACULDADE\2 SEMESTRE\ROBERTO\Bubble-Sort\Bubble-Sort\bin\Debug\Bubble-Sort.exe
+E:\FACULDADE\2 SEMESTRE\ROBERTO\Bubble-Sort\Bubble-Sort\bin\Debug\Bubble-Sort.pdb
+E:\FACULDADE\2 SEMESTRE\ROBERTO\Bubble-Sort\Bubble-Sort\obj\Debug\Bubble-Sort.exe
+E:\FACULDADE\2 SEMESTRE\ROBERTO\Bubble-Sort\Bubble-Sort\obj\Debug\Bubble-Sort.pdb
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\Bubble-Sort\Bubble-Sort\bin\Debug\Bubble-Sort.exe.config
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\Bubble-Sort\Bubble-Sort\obj\Debug\Bubble-Sort.exe
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\Bubble-Sort\Bubble-Sort\obj\Debug\Bubble-Sort.pdb
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\Bubble-Sort\Bubble-Sort\bin\Debug\Bubble-Sort.exe
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\Bubble-Sort\Bubble-Sort\bin\Debug\Bubble-Sort.pdb
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\Bubble-Sort\Bubble-Sort\obj\Debug\Bubble-Sort.csprojResolveAssemblyReference.cache
