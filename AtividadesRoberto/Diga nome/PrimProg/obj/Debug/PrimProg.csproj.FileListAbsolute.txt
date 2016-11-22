@@ -1,0 +1,9 @@
+c:\users\brunoleone\documents\visual studio 2015\Projects\PrimProg\PrimProg\bin\Debug\PrimProg.exe.config
+c:\users\brunoleone\documents\visual studio 2015\Projects\PrimProg\PrimProg\bin\Debug\PrimProg.exe
+c:\users\brunoleone\documents\visual studio 2015\Projects\PrimProg\PrimProg\bin\Debug\PrimProg.pdb
+c:\users\brunoleone\documents\visual studio 2015\Projects\PrimProg\PrimProg\obj\Debug\PrimProg.csprojResolveAssemblyReference.cache
+c:\users\brunoleone\documents\visual studio 2015\Projects\PrimProg\PrimProg\obj\Debug\PrimProg.exe
+c:\users\brunoleone\documents\visual studio 2015\Projects\PrimProg\PrimProg\obj\Debug\PrimProg.pdb
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\PrimProg\PrimProg\bin\Debug\PrimProg.exe.config
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\PrimProg\PrimProg\obj\Debug\PrimProg.exe
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\PrimProg\PrimProg\obj\Debug\PrimProg.pdb
