@@ -1,0 +1,2 @@
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\OrdenacaoInsertionShort\bin\Debug\OrdenacaoInsertionShort.exe.config
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\OrdenacaoInsertionShort\obj\Debug\OrdenacaoInsertionShort.csprojResolveAssemblyReference.cache

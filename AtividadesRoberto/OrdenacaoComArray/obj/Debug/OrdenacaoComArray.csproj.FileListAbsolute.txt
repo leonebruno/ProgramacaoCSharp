@@ -1,0 +1,5 @@
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\OrdenacaoComArray\bin\Debug\OrdenacaoComArray.exe.config
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\OrdenacaoComArray\bin\Debug\OrdenacaoComArray.exe
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\OrdenacaoComArray\bin\Debug\OrdenacaoComArray.pdb
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\OrdenacaoComArray\obj\Debug\OrdenacaoComArray.exe
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\OrdenacaoComArray\obj\Debug\OrdenacaoComArray.pdb

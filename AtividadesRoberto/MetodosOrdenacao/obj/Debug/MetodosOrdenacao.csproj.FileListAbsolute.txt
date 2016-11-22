@@ -1,0 +1,6 @@
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\MetodosOrdenacao\bin\Debug\MetodosOrdenacao.exe.config
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\MetodosOrdenacao\bin\Debug\MetodosOrdenacao.exe
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\MetodosOrdenacao\bin\Debug\MetodosOrdenacao.pdb
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\MetodosOrdenacao\obj\Debug\MetodosOrdenacao.csprojResolveAssemblyReference.cache
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\MetodosOrdenacao\obj\Debug\MetodosOrdenacao.exe
+A:\MEGAsync\FACULDADE\2º MODULO\FUND. PROGRAMACAO\ATIVIDADES ROBERTO\MetodosOrdenacao\obj\Debug\MetodosOrdenacao.pdb
